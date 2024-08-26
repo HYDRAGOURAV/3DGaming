@@ -66,7 +66,7 @@ function App() {
       <Navbar />
       <section className="One_section">
         <div className="intro_box" id="intro_box1">
-          <h1>THE NEXT GENERATION OF GAMING</h1>
+          <h1>THE NEXT GENERATION OF <span>GAMING</span></h1>
           <div class="box_main">
             <div class="container__main">
               <div class="clock">
